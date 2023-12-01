@@ -1,0 +1,5 @@
+[18-Aug-2023 06:16:12 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\WebPagesController::about_us_post() in /home/a290120s/public_html/abali.sbwares.com/app/Http/Controllers/Admin/WebPagesController.php on line 63
+[21-Aug-2023 09:28:19 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserController::CustomerQuery() in /home/a290120s/public_html/abali.sbwares.com/app/Http/Controllers/UserController.php on line 37
+[21-Aug-2023 09:28:23 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserController::CustomerQuery() in /home/a290120s/public_html/abali.sbwares.com/app/Http/Controllers/UserController.php on line 37
+[21-Aug-2023 09:28:28 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserController::CustomerQuery() in /home/a290120s/public_html/abali.sbwares.com/app/Http/Controllers/UserController.php on line 37
+[24-Aug-2023 05:52:04 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\WebPagesController::Logo_delete() in /home/a290120s/public_html/abali.sbwares.com/app/Http/Controllers/Admin/WebPagesController.php on line 356
